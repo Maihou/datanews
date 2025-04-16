@@ -1,0 +1,167 @@
+{
+    "50": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "country": "欧盟",
+                    "time": "",
+                    "flagName": "oumeng",
+                    "type": 1
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [116.46, 39.92],
+                        [4.3517, 50.8503]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "country": "美国",
+                    "time": "",
+                    "flagName": "meiguo",
+                    "type": 1
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [116.46, 39.92],
+                        [-77.0369, 38.9072]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "country": "沙特",
+                    "time": "",
+                    "flagName": "shate",
+                    "type": 0
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [116.46, 39.92],
+                        [46.7296, 24.6333]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "country": "印度",
+                    "time": "",
+                    "flagName": "yindu",
+                    "type": 1
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [116.46, 39.92],
+                        [77.1025, 28.7041]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "country": "巴西",
+                    "time": "",
+                    "flagName": "baxi",
+                    "type": 1
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [116.46, 39.92],
+                        [-47.8825, -15.7942]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "country": "英国",
+                    "time": "",
+                    "flagName": "yingguo",
+                    "type": 1
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [116.46, 39.92],
+                        [-0.118092, 51.509865]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "country": "墨西哥",
+                    "time": "",
+                    "flagName": "moxige",
+                    "type": 1
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [116.46, 39.92],
+                        [-99.1332, 19.4326]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "country": "阿联酋",
+                    "time": "",
+                    "flagName": "alianqiu",
+                    "type": 1
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [116.46, 39.92],
+                        [54.3705, 24.4539]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "country": "澳大利亚",
+                    "time": "",
+                    "flagName": "aodaliya",
+                    "type": 1
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [116.46, 39.92],
+                        [149.1300, -35.2809]
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "country": "韩国",
+                    "time": "",
+                    "flagName": "hanguo",
+                    "type": 1
+                },
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": [
+                        [116.46, 39.92],
+                        [126.9780, 37.5665]
+                    ]
+                }
+            }
+        ]
+    }
+}
